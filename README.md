@@ -26,7 +26,7 @@ Software Developer | React.js | Java | Spring Boot | Full Stack Enthusiast
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
+<a href="https://www.linkedin.com/in/uday-pavan/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
