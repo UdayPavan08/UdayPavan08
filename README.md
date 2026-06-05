@@ -166,7 +166,7 @@ Tirumala Engineering College
 
 📧 Email: udaypavan.appala@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: https://www.linkedin.com/in/uday-pavan/
 
 🐙 GitHub: https://github.com/UdayPavan08
 
