@@ -1,18 +1,43 @@
 <h1 align="center">Hi 👋, I'm Uday Pavan</h1>
 
 <h3 align="center">
-Frontend Developer | Java Developer | Spring Boot | React.js
+Software Developer | React.js | Java | Spring Boot | Full Stack Enthusiast
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+Developer;Spring+Boot+Developer;React.js+Developer;Full+Stack+Developer;Open+to+Software+Developer+Roles" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Frontend Developer with experience building production websites
-- 🌱 Learning Full Stack Development
-- ⚡ Experienced with React, Java, Spring Boot, and MySQL
-- 🔭 Built medical conference websites used by real users
-- 👨‍💻 Open to Software Developer opportunities
+- 🌱 Currently learning Full Stack Development
+- ⚡ Skilled in React.js, Java, Spring Boot, and MySQL
+- 🏢 Worked as Junior Frontend Developer at Scon Conferences
+- 🔧 Built REST APIs using Spring Boot and Microservices
+- 🎯 Interested in Software Development and Full Stack Engineering
+- 📍 Hyderabad, India
+- 👨‍💻 Open to Software Developer Opportunities
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:udaypavan.appala@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+<a href="https://github.com/UdayPavan08">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
 
 ---
 
@@ -20,54 +45,135 @@ Frontend Developer | Java Developer | Spring Boot | React.js
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Tools
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite" />
+</p>
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
 ### 💰 Finance Tracker
 
-- React + Vite
+- Built using React.js and Vite
 - Expense & Income Tracking
-- Budget Management
-- Currency API Integration
-- Recharts Analytics
+- Budget Management System
+- Currency Exchange API Integration
+- Recharts Data Visualization
+- CSV Export Functionality
 
 ### 💳 Payment Integration System
 
-- Java
-- Spring Boot
-- REST APIs
+- Java + Spring Boot
+- REST API Development
 - Payment Validation
+- Payment Processing
 - Microservices Architecture
+- MySQL Integration
+
+### 🌐 Medical Conference Websites
+
+- Built production-ready conference websites
+- Registration Forms
+- Payment Pages
+- Speaker & Schedule Modules
+- Fully Responsive Design
 
 ---
 
-## 📫 Connect With Me
+## 💼 Experience
 
-- 📧 udaypavan.appala@gmail.com
-- 💼 LinkedIn
-- 🌐 GitHub: UdayPavan08
+### Junior Frontend Developer | Scon Conferences
+
+**July 2025 – April 2026**
+
+- Developed 2 medical conference websites from scratch
+- Maintained 3 existing conference websites
+- Built registration and payment modules
+- Delivered responsive and accessible UI
+
+### Java Developer Intern | Hulk Hire Tech
+
+**Nov 2024 – Dec 2024**
+
+- Developed REST APIs using Spring Boot
+- Worked on Payment Validation System
+- Used MySQL for transaction storage
+- Gained exposure to Redis and Microservices
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UdayPavan08&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayPavan08&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UdayPavan08&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=UdayPavan08&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayPavan08&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (CSE)**  
+Tirumala Engineering College  
+2019 - 2023
+
+---
+
+## 📫 Contact
+
+📧 Email: udaypavan.appala@gmail.com
+
+💼 LinkedIn: YOUR_LINKEDIN_URL
+
+🐙 GitHub: https://github.com/UdayPavan08
+
+📍 Hyderabad, India
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
