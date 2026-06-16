@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Uday Pavan</h1>
 
 <h3 align="center">
-Software Developer | React.js | Java | Spring Boot | Full Stack Enthusiast
+Software Developer | React.js | Javascript | Spring Boot | Full Stack Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+Developer;Spring+Boot+Developer;React.js+Developer;Full+Stack+Developer;Open+to+Software+Developer+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+Developer;React.js+Developer;Full+Stack+Developer;Open+to+Software+Developer+Roles" />
 </p>
 
 ---
